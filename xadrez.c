@@ -21,7 +21,7 @@ int main() {
     printf("Movimento do Bispo:\n");
 
     while (contador <= casasBispo) {
-        printf("Diagonal Superior Direita (%d)\n", contador);
+        printf("Cima, Direita (%d)\n", contador);
         contador++;
     }
 
